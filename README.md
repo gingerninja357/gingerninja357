@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gingerninja357
+- 👋 Hi, I’m Lacy Saute
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently taking the Google Data Analytics Certificate and learning Python & R
 
